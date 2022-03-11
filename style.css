@@ -1,0 +1,26 @@
+
+
+
+  body {
+	background-color: #C0FDFB;
+	color: rgb(8, 12, 11);
+	font-family: "Monaco, Times New Roman", Times, serif;
+}
+
+.container {
+	width: 560px;
+	margin: auto;
+	text-align: center;
+}
+
+
+/* div {
+	border-radius: 35px;
+    border-style:dashed;
+	border-color: #C0FDFB;
+	background-color: #C0FDFB;
+	padding: 20px;
+  } 
+  #f1{
+	background-color: #C0FDFB;
+  } */
